@@ -16,5 +16,6 @@ int main()
 {
     fast_as_fuck();
     int a = 6 / 5;
+    cout<<a;
     return 0;
 }
