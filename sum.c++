@@ -18,6 +18,6 @@ freopen("output.txt", "w", stdout);
 int main()
 {
     fast_as_fuck();
-
+    cout<<"hfvhb";
     return 0;
 }
